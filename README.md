@@ -1,9 +1,9 @@
 # 🧾 Gastos Casa — Automatización de Tickets con IA
 
 > Automatización construida en **Make.com** que captura tickets y facturas enviados por Telegram, los analiza con inteligencia artificial (GPT-4o-mini) y registra los datos extraídos automáticamente en Google Sheets.
->
-> 
-> <img width="1282" height="340" alt="imagen" src="https://github.com/user-attachments/assets/2960621e-fdef-4bfc-b2b8-377220332baa" />
+
+
+ <img width="1282" height="340" alt="imagen" src="https://github.com/user-attachments/assets/2960621e-fdef-4bfc-b2b8-377220332baa" />
 
 ---
 
