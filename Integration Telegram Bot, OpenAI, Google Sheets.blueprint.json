@@ -379,7 +379,7 @@
                 "restore": {
                     "parameters": {
                         "__IMTCONN__": {
-                            "label": "My Google connection (vanealmironmusica@gmail.com)",
+                            "label": "My Google connection (v.....@gmail.com)",
                             "data": {
                                 "scoped": "true",
                                 "connection": "google"
